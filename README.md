@@ -41,4 +41,13 @@ enum Visibility {
 }
 
 
-
+GUI examples:
+Table with Bootstrap:
+http://allenfang.github.io/react-bootstrap-table/example.html#advance
+http://allenfang.github.io/react-bootstrap-table/example.html#custom
+http://allenfang.github.io/react-bootstrap-table/example.html#celledit
+http://allenfang.github.io/react-bootstrap-table/example.html#pagination
+http://allenfang.github.io/react-bootstrap-table/example.html#column-filter
+http://allenfang.github.io/react-bootstrap-table/example.html#sort
+http://allenfang.github.io/react-bootstrap-table/example.html#manipulation
+http://allenfang.github.io/react-bootstrap-table/example.html#expand
