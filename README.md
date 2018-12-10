@@ -12,10 +12,10 @@ Image view or document view
 Use Amplify CSS styles/UI components (login/images...)
 
 React CRUD + Search:
-https://link.medium.com/3EKUUAgbwS
+* https://link.medium.com/3EKUUAgbwS
 
 Schema:
-https://github.com/aws-samples/aws-amplify-graphql
+* https://github.com/aws-samples/aws-amplify-graphql
 
 
 
@@ -43,11 +43,24 @@ enum Visibility {
 
 GUI examples:
 Table with Bootstrap:
-http://allenfang.github.io/react-bootstrap-table/example.html#advance
-http://allenfang.github.io/react-bootstrap-table/example.html#custom
-http://allenfang.github.io/react-bootstrap-table/example.html#celledit
-http://allenfang.github.io/react-bootstrap-table/example.html#pagination
-http://allenfang.github.io/react-bootstrap-table/example.html#column-filter
-http://allenfang.github.io/react-bootstrap-table/example.html#sort
-http://allenfang.github.io/react-bootstrap-table/example.html#manipulation
-http://allenfang.github.io/react-bootstrap-table/example.html#expand
+* http://allenfang.github.io/react-bootstrap-table/example.html#advance
+* http://allenfang.github.io/react-bootstrap-table/example.html#custom
+* http://allenfang.github.io/react-bootstrap-table/example.html#celledit
+* http://allenfang.github.io/react-bootstrap-table/example.html#pagination
+* http://allenfang.github.io/react-bootstrap-table/example.html#column-filter
+* http://allenfang.github.io/react-bootstrap-table/example.html#sort
+* http://allenfang.github.io/react-bootstrap-table/example.html#manipulation
+* http://allenfang.github.io/react-bootstrap-table/example.html#expand
+
+React file upload:
+* https://github.com/lionng429/react-file-uploader
+
+
+
+Potential screens:
+![alt text](https://github.com/RuairiSpain/Ramplify/blob/master/jhipster-bootstrap-material-design-2.png)
+
+![alt text](https://github.com/RuairiSpain/Ramplify/blob/master/maxresdefault.jpg)
+
+![alt text](https://github.com/RuairiSpain/Ramplify/blob/master/screenshot_3.png)
+![alt text](https://github.com/RuairiSpain/Ramplify/blob/master/screenshot_5.png)
